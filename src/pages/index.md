@@ -510,7 +510,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: VNS2021
-  description: The preview of the Event theme
+  description: Hội nghị phẫu thuật thần kinh 2021
   extra:
     - name: 'og:type'
       value: website
