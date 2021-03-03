@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: VNS 2021
-    subtitle: Conference for Creative People
+    subtitle: Vietnamese Neurosurgical Society
     content: |
       **Tháng 12, 2021**
     actions:
