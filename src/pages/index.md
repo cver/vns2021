@@ -530,7 +530,7 @@ seo:
     - name: 'twitter:title'
       value: Hội nghị PTTK 2021
     - name: 'twitter:description'
-      value: The preview of the Event theme
+      value: Hội nghị phẫu thuật thần kinh 2021 - Hội phẫu thuật thần kinh Việt Nam
     - name: 'twitter:image'
       value: /images/vns_cme2020.png
       relativeUrl: true
