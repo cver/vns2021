@@ -519,7 +519,7 @@ seo:
       value: Hội nghị PTTK 2021
       keyName: property
     - name: 'og:description'
-      value: 'Hội nghị phẫu thuật thần kinh 2021 - '
+      value: Hội nghị phẫu thuật thần kinh 2021 - Hội phẫu thuật thần kinh Việt Nam
       keyName: property
     - name: 'og:image'
       value: /images/vns_cme2020.png
