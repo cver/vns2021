@@ -532,7 +532,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Event theme
     - name: 'twitter:image'
-      value: images/feature-3.jpg
+      value: /images/vns_cme2020.png
       relativeUrl: true
 template: advanced
 ---
