@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: VNS 2021
     subtitle: Conference for Creative People
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **Tháng 12, 2021**
     actions:
       - type: action
         label: Tham gia ngay!
