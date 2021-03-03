@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Hội nghịphẫu thuật thần kinh 2021
+    title: Hội nghị phẫu thuật thần kinh 2021
     subtitle: Hội phẫu thuật thần kinh Việt Nam
     content: |
       **Tháng 12, 2021**
