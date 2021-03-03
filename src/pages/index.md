@@ -509,7 +509,7 @@ sections:
     background_color: none
 seo:
   type: stackbit_page_meta
-  title: Stackbit Event Theme
+  title: VNS2021
   description: The preview of the Event theme
   extra:
     - name: 'og:type'
