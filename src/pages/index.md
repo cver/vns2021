@@ -7,7 +7,7 @@ sections:
     content: '**April 14 - 16, 2021**'
     actions:
       - type: action
-        label: Get Your Ticket Today!
+        label: Tham gia ngay!
         url: /about
         style: primary
     align: center
