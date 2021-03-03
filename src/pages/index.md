@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: VNS 2021
-    subtitle: Vietnamese Neurosurgical Society
+    subtitle: Hội phẫu thuật thần kinh Việt Nam
     content: |
       **Tháng 12, 2021**
     actions:
