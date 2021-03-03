@@ -21,7 +21,7 @@
             },
             {
                 "type": "action",
-                "label": "Sponsorship",
+                "label": "Thành viên",
                 "url": "/sponsorship",
                 "style": "link"
             },
