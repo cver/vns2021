@@ -27,7 +27,7 @@
             },
             {
                 "type": "action",
-                "label": "Tickets",
+                "label": "Liên hệ",
                 "url": "thank-you",
                 "style": "primary"
             }
